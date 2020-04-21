@@ -2,6 +2,7 @@
 A new Flutter application.
 
 # DEMO
+Click this GIF↓
 ![demo](https://user-images.githubusercontent.com/49640294/79875280-6831ba80-8424-11ea-98af-fe7f5c70eee6.gif)
 
 # Requirement
