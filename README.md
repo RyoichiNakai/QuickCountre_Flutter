@@ -2,8 +2,8 @@
 A new Flutter application.
 
 # DEMO
-Click this GIF↓
-![demo](https://user-images.githubusercontent.com/49640294/79875280-6831ba80-8424-11ea-98af-fe7f5c70eee6.gif)
+![demo](https://user-images.githubusercontent.com/49640294/79877241-f7d86880-8426-11ea-8322-5e6927cc1ce3.gif)
+
 
 # Requirement
 Refer to pubspec.yaml and install flutter-sdk plugin.
