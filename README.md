@@ -2,7 +2,7 @@
 A new Flutter application.
 
 # DEMO
-![demo](https://user-images.githubusercontent.com/49640294/79859862-a4f1b780-840c-11ea-8a99-394a27a04845.gif)
+![demo](https://user-images.githubusercontent.com/49640294/79875280-6831ba80-8424-11ea-98af-fe7f5c70eee6.gif)
 
 # Requirement
 Refer to pubspec.yaml and install flutter-sdk plugin.
