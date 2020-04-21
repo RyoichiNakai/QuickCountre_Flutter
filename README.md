@@ -6,7 +6,7 @@ A new Flutter application.
 
 # Requirement
 Refer to pubspec.yaml and install flutter-sdk plugin.
-* sqfllte etc..
+* sqflite etc..
 
 # Environment
 * IDE: Android Studio 3.6
@@ -21,7 +21,7 @@ Follow the Android studio instructions to install what you need.
 If you use this repository, please Please install according to the following.
 
 ```bash
-git clone https://github.com/RyoichiNakai/WeatherForecastBot_Flask
+git clone https://github.com/RyoichiNakai/QuickCountre_Flutter.git
 ```
 
 # Author
