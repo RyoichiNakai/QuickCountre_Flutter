@@ -1,0 +1,52 @@
+name: quick_countre
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  splashscreen: any
+  cupertino_icons: ^0.1.2
+  sqflite: any
+  path: any
+  path_provider: any
+  audioplayers: ^0.14.0
+  shared_preferences: ^0.5.4+5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_launcher_icons: any
+  flutter_native_splash: any
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path_android: 'assets/icon/icon.png'
+  image_path_ios: 'assets/icon/icon.png'
+  adaptive_icon_background: 'assets/icon/icon.png'
+  adaptive_icon_foreground: 'assets/icon/icon.png'
+
+flutter_native_splash:
+  image: "assets/icon/splash_launcher.png"
+  color: "1a237e"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icon/splash_launcher.png
+    - assets/images/
+    - assets/music/
+  fonts:
+    - family: jupiter
+      fonts:
+        - asset: assets/font/jupiter.ttf
+    - family: nano
+      fonts:
+        - asset: assets/font/nano.ttf
+
