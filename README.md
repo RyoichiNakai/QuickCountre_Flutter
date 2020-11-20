@@ -18,7 +18,7 @@ Refer to pubspec.yaml and install flutter-sdk plugin.
 Follow the Android studio instructions to install what you need.
 
 # Usage
-If you use this repository, please Please install according to the following.
+If you use this repository, please install according to the following.
 
 ```bash
 git clone https://github.com/RyoichiNakai/QuickCountre_Flutter.git
