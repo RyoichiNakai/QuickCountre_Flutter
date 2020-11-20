@@ -4,7 +4,6 @@ A new Flutter application.
 # DEMO
 ![demo](https://user-images.githubusercontent.com/49640294/79877241-f7d86880-8426-11ea-8322-5e6927cc1ce3.gif)
 
-
 # Requirement
 Refer to pubspec.yaml and install flutter-sdk plugin.
 * sqflite etc..
@@ -28,4 +27,3 @@ git clone https://github.com/RyoichiNakai/QuickCountre_Flutter.git
 # Author
 * Name: Ryoichi Nakai
 * E-mail: elmobasketball0913@me.com
-
